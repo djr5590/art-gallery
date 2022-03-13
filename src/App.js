@@ -25,6 +25,8 @@ function App() {
     setArtId(artId + Number(e.target.value))
   }
 
+// add code later for onClick with picture  
+
   return (
     <div className="App">
        <Title title={data.title} />
